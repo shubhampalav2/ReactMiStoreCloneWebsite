@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ReactMiStoreCloneWebsite/static/css/main.ee6229a3.css",
+    "main.js": "/ReactMiStoreCloneWebsite/static/js/main.f3a54d44.js",
+    "static/media/Logo.svg": "/ReactMiStoreCloneWebsite/static/media/Logo.6f07170005dfcdacb9131cbd15dd4d81.svg",
+    "index.html": "/ReactMiStoreCloneWebsite/index.html",
+    "main.ee6229a3.css.map": "/ReactMiStoreCloneWebsite/static/css/main.ee6229a3.css.map",
+    "main.f3a54d44.js.map": "/ReactMiStoreCloneWebsite/static/js/main.f3a54d44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee6229a3.css",
+    "static/js/main.f3a54d44.js"
+  ]
+}
