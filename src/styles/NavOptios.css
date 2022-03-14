@@ -1,0 +1,28 @@
+navOptions{
+    /* display: flex;
+    width: 90vw;
+    margin: auto; */
+    display: flex;
+    background-color: white;
+    justify-content:space-evenly;
+    padding: 2vmax;
+    z-index: 1000;
+}
+
+.navOptions > div:first-child > img{
+    cursor: pointer;
+    transition: all 0.5s;
+    width: 22vw;
+  }
+
+  .navOptions > div:first-child > img:hover{
+    transform: translateY(-0.4vmax);
+    box-shadow: 0px 6px 15px rgba(53, 53, 53, 0.363);
+
+}
+
+.navOptions > div:last-child{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
