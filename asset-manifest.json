@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ReactMiStoreCloneWebsite/static/css/main.ee6229a3.css",
-    "main.js": "/ReactMiStoreCloneWebsite/static/js/main.f3a54d44.js",
-    "static/media/Logo.svg": "/ReactMiStoreCloneWebsite/static/media/Logo.6f07170005dfcdacb9131cbd15dd4d81.svg",
+    "main.css": "/ReactMiStoreCloneWebsite/static/css/main.8a7e307b.css",
+    "main.js": "/ReactMiStoreCloneWebsite/static/js/main.6f01859a.js",
+    "static/media/Logo.svg": "/ReactMiStoreCloneWebsite/static/media/Logo.650f9b5e1b4b92061567f676ad98b5d8.svg",
     "index.html": "/ReactMiStoreCloneWebsite/index.html",
-    "main.ee6229a3.css.map": "/ReactMiStoreCloneWebsite/static/css/main.ee6229a3.css.map",
-    "main.f3a54d44.js.map": "/ReactMiStoreCloneWebsite/static/js/main.f3a54d44.js.map"
+    "main.8a7e307b.css.map": "/ReactMiStoreCloneWebsite/static/css/main.8a7e307b.css.map",
+    "main.6f01859a.js.map": "/ReactMiStoreCloneWebsite/static/js/main.6f01859a.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee6229a3.css",
-    "static/js/main.f3a54d44.js"
+    "static/css/main.8a7e307b.css",
+    "static/js/main.6f01859a.js"
   ]
 }
